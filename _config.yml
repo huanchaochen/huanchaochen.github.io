@@ -1,11 +1,11 @@
 name: Something
 author: Nothing
-url: http://huanchaochen.github.io
+url: https://huanchaochen.github.io
 baseurl: 
-resume_site: http://huanchaochen.github.io
+resume_site: https://huanchaochen.github.io
 description: Something about Nothing
 github_username: huanchaochen
-github: http://github.com/huanchaochen
+github: https://github.com/huanchaochen
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
 paginate: 12
@@ -15,8 +15,8 @@ highlighter: rouge
 markdown: kramdown
 comments :
   gitalk :
-    clientID : 
-    clientSecret : 
-    repo : 
-    owner : 
-    admin : 
+    clientID : xxx
+    clientSecret : xxx
+    repo : huanchaochen.github.io
+    owner : huanchaochen
+    admin : huanchaochen
