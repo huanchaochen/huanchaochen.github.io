@@ -1,0 +1,22 @@
+name: Something
+author: Nothing
+url: http://huanchaochen.github.io
+baseurl: 
+resume_site: http://huanchaochen.github.io
+description: Something about Nothing
+github_username: huanchaochen
+github: http://github.com/huanchaochen
+plugins: [jekyll-paginate]
+permalink: /:year-:month-:day-:title
+paginate: 12
+paginate_path: "/page/:num/"
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+highlighter: rouge
+markdown: kramdown
+comments :
+  gitalk :
+    clientID : 
+    clientSecret : 
+    repo : 
+    owner : 
+    admin : 
