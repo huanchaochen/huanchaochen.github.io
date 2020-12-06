@@ -6,6 +6,8 @@ category: tutorial
 thumbnail: /style/image/thumbnail.jpg
 icon: note
 ---
+* content
+{:toc}
 
 # 开发知识
 
